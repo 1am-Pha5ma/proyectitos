@@ -1,0 +1,6 @@
+nombre=input("Ingrese su nombre capitán!:")
+combustible = int(100)
+viajes_totales=int(0)
+viajes_Luna = int(0)
+viajes_Marte = int(0)
+viajes_Saturno = int(0)
